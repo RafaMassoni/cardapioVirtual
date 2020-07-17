@@ -1,0 +1,169 @@
+body
+{
+    background-color: #0e0b16;
+    height: unset;
+    width: unset;    
+}
+
+div#cabecalho
+{
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    width: unset;
+}
+
+img#logo
+{
+    width: 40%;
+    max-width:  200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
+
+}
+
+div#barra1Cabecalho
+{
+    background-color: #E7DFDD;
+    padding: 4px;
+    margin-top: 5px;
+}
+
+div#barra2Cabecalho
+{
+    background-color: #3e18c7;
+    padding: 2px;
+    margin-bottom: 5px;
+}
+
+
+
+div#conteudo
+{
+    background-color: white;
+    padding: 1%;
+    width: 98%;
+}
+
+dl
+{
+    margin: 0px;
+}
+
+
+div#grupo
+{
+    background-color: #0e0b16;
+    color: #FFCC00;
+    border-radius: 10px;
+
+    max-height: 130px;
+    width: 98%;
+    padding: 1%;
+    margin-top: 10px;
+
+    display:table;
+    font-size: x-large;
+    font-family: fantasy;
+}
+
+img#grupo
+{
+    max-height: 100px;
+    max-width: 100px;
+    height: 100%;
+    width: 40%;
+    margin-right: 20px;
+    border-radius: 100%;
+    float: left;
+}
+
+
+dd#grupo
+{
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    color: white;
+}
+
+
+
+div#produto
+{
+    background-color: #0e0b16;
+    color: #FFCC00;
+    border-radius: 10px;
+    font-size: x-large;
+    font-family: fantasy;
+    justify-content: space-between;
+    display:table;
+    max-height: 130px;
+    width: 98%;
+    margin-top: 10px;
+    padding-right: 1%;
+}
+
+img#produto
+{
+    max-width: 150px;
+    height: 100%;
+    width: 40%;
+    margin-right: 10px;
+    float: left;
+}
+
+dt#produto
+{
+    padding-top: 20px;
+}
+
+dt#produtoPreco
+{
+    margin-top: 10px;
+    padding-right: 30px;
+    white-space: nowrap;
+    float: right;
+    font-size: x-large;
+}
+
+dd#produto
+{
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    color: white;
+    
+}
+
+
+
+div#rodape
+{
+    text-align: center;
+    padding-top: 4px;
+}
+
+
+div#barra1Rodape
+{
+    background-color: #3e18c7;
+    padding: 2px;
+}
+
+
+div#barra2Rodape
+{
+    background-color: #E7DFDD;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+img#rodape
+{
+    height: 80px;
+}
+
+
+
